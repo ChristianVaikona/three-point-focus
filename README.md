@@ -19,7 +19,7 @@ Let's say I'm at an NBA game. I've been asked to photograph the best 3-point sho
 
 ---
 
-**Technical speaking...**
+**Technically speaking...**
 
 I am taking all data directly related to the players' shooting statistics, filtering shot location coordinates to those outside of the 3-point boundary, then splitting by player, modeling their statistics, tendencies, and predicitions of zones where the player will shoot their 3-point shots from and using results to provide recommendations for photographer's optimal location. For this project, I will narrow down to 5 players amongst top 3-point related statistics.
 
