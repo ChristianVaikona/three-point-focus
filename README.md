@@ -66,5 +66,3 @@ I will have determined an axis parallel to the baseline of the court along which
 With this tool in hand, a photographer, such as myself, has much more control.
 
 I give you **Three Point Focus**
-
-===
