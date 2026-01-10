@@ -6,10 +6,10 @@ This project uses NBA 3‑point tracking data to model players’ shooting hotsp
 ### Tech Stack:
 
 - **Languages**:        `Python` `SQL` `R`
-- **Python libraries**: `pandas`, `numpy`, `scikit-learn`, `nba_api`
+- **Python libraries**: `pandas` `numpy` `scikit-learn` `nba_api`
 - **Database**:         `MySQL`
-- **R libraries**:      `ggplot2`, `DBI`
-- **Tooling**:          `Jupyter Notebooks`, `Git`, `GitHub`, `structured src/ module layout`
+- **R libraries**:      `ggplot2` `DBI`
+- **Tooling**:          `Jupyter Notebooks` `Git` `GitHub` `structured src/ module layout`
 
 ---
 
