@@ -21,11 +21,11 @@ Let's say I'm at an NBA game. I've been asked to photograph the best 3-point sho
 
 **Technical speaking...**
 
-I am taking all data directly related to the players' 3-point shooting, also filtering shot location coordinates to those outside of the 3-point boundary, and by player, modeling statistics, tendencies, and predicitions of zones where the player will shoot their 3-point shots from.
+I am taking all data directly related to the players' shooting statistics, filtering shot location coordinates to those outside of the 3-point boundary, then splitting by player, modeling their statistics, tendencies, and predicitions of zones where the player will shoot their 3-point shots from.
 
 ---
 
-There are a few other factors that I, as the photographer, am going to think about when choosing THE optimal spot. One of which is which hand they shoot with, maybe even their entire shooting form. Trivial to some, this makes or breaks a photo. The last thing I want is the player's face to be covered by their arm when shooting. Here are some examples:
+There are a couple other factors that I, as the photographer, am going to think about when choosing THE optimal spot. One of which is which hand they shoot with, maybe even their entire shooting form. Trivial to some, this makes or breaks a photo. The last thing I want is the player's face to be covered by their arm when shooting. Here are some examples:
 
 ![3 images as examples of 3-point shot photos where one is undesireable](figures/README_figures/tpf-readme-fig1.png)
 
@@ -35,15 +35,19 @@ Which photo do you think might make it harder for a viewer to identify the playe
 
 **Technically speaking...**
 
-I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting arm from the zone (ie. Facing the player, if the player shoots right-handed, the photographer will move to the right of the player's shooting zone).
+I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting arm from the zone (ie. Photographer facing the player, if the player shoots right-handed, the photographer will be recommended to be to the right of the player's shooting zone).
 
 ---
 
-Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I have brought to the game. While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa. The standard in sports photography is a 70-200mm f2.8 lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool
+Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I bring to the game. While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa. The standard in sports photography is a 70-200mm f2.8 lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the optimal locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
 
 [Example photos with focal length and aperature]
 
 [Titled: Focal Length And Reach ; Figure of standard focal lenghts and optimal range in yards/feet]
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 ---
 
@@ -52,3 +56,4 @@ Another factor I want to consider when choosing my spot is my equipment, more im
 I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Also following the modeling of zones they are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well other options per lens specifications
 
 ---
+
