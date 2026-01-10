@@ -39,7 +39,7 @@ I incorporate an encoded series indicating whether a player is a left-handed sho
 
 ---
 
-Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I bring to the game. While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa. The standard in sports photography is a 70-200mm f2.8 lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the optimal locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
+Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I bring to the game. While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa. For sports, the ideal aperature is f2.8 and I will assume this ideal for this project. The standard focal length in sports photography is a 70-200mm lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the best equipment and locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
 
 [Example photos with focal length and aperature]
 
@@ -47,13 +47,13 @@ Another factor I want to consider when choosing my spot is my equipment, more im
 
 Standard Lens Specifications | Range of Reach
 --- | --- 
-70-200mm f2.8 | lol
+70-200mm f2.8 | 10-20 yds
 
 ---
 
 **Technically speaking...**
 
-I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Also following the modeling of zones they are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well other options per lens specifications
+I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Following the modeling of zones they are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well as calculate other options for a photographer per lens specifications
 
 ---
 
