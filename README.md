@@ -45,24 +45,30 @@ Another factor I want to consider when choosing my spot is my equipment, more im
 
 *While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa.*
 
-For sports, the ideal aperature is f2.8 and I will assume this ideal for this project. The standard focal length in sports photography is a 70-200mm lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the best equipment and locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
+For sports, the ideal aperature is f2.8 and I will assume this ideal for this project. The standard focal length in sports photography is a 70-200mm lens. This is generally optimal for about a 15-38 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the best equipment and locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
 
 ![3 images as examples of photos taken at different focal lengths](figures/README_figures/tpf-readme-fig2.png)
 
-The following are standard practice specs and 
+The following are standard practice specs and ranges they are meant for:
 
 Standard Lens Specifications | Range of Reach
 --- | --- 
-70-200mm f2.8 | 10-20 yds
+24-70mm f2.8 | 2-7 yds
+--- | --- 
+70-200mm f2.8 | 15-38 yds
+--- | --- 
+300mm f2.8 | 30-56 yds
+--- | ---
+400mm f2.8 | 40-75 yds
 
 ---
 
 **Technically speaking...**
 
-I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Following the modeling of zones the players are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well as calculate other options for a photographer per lens specifications
+I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Following the modeling of zones the players are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well as calculate other options for a photographer per lens specifications. I will discretize this into groups using the yard ranges as bins.
 
 ---
 
-With this tool in hand, a photographer, such as myself, has much more control.
+With this tool in hand, a photographer, such as myself, has much more control and information to be dialed in with.
 
 I give you **Three Point Focus**
