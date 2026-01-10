@@ -13,7 +13,7 @@ This project uses NBA 3‑point tracking data to model players’ shooting hotsp
 
 ---
 
-As a sports photographer hobbyist, I like to delve into the nitty-gritty details of the craft every now and then. One of these details is positioning. This detail leads to questions like "Where should I be? Where might be the best spot for me to get a really cool picture?". 
+As a sports photographer hobbyist, I like to delve into the nitty-gritty details of the craft every now and then. One of these details is positioning. This detail leads to questions like "Where should I be? Where might be the best spot for me to get a really cool picture from?". 
 
 Let's say I'm at an NBA game. I've been asked to photograph the best 3-point shooters in the game. Now, typically, photographers are only allowed on the baselines of the court, if near the court at all. This simplifies the job, but I want THE optimal spot on the baseline. This project aims to provide just that.
 
@@ -37,6 +37,8 @@ Which photo do you think might make it harder for a viewer to identify the playe
 
 I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting hand from the zone (ie. Photographer facing the player, if the player shoots right-handed, the photographer will be recommended to be to the right of the player's shooting zone).
 
+[Drawn figure example???]
+
 ---
 
 Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I bring to the game. 
@@ -57,7 +59,12 @@ Standard Lens Specifications | Range of Reach
 
 **Technically speaking...**
 
-I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Following the modeling of zones they are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well as calculate other options for a photographer per lens specifications
+I will have determined an axis parallel to the baseline of the court along which the positioning of the photographer will generally be (Media zones are typically determined by league officials). Following the modeling of zones the players are likely to shoot from, I will calculate the average distance between the zone and the general optimal location for the photographer as well as calculate other options for a photographer per lens specifications
 
 ---
 
+With this tool in hand, a photographer, such as myself, has much more control.
+
+I give you **Three Point Focus**
+
+===
