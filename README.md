@@ -35,7 +35,7 @@ Which photo do you think might make it harder for a viewer to identify the playe
 
 **Technically speaking...**
 
-I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting arm from the zone (ie. Photographer facing the player, if the player shoots right-handed, the photographer will be recommended to be to the right of the player's shooting zone).
+I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting hand from the zone (ie. Photographer facing the player, if the player shoots right-handed, the photographer will be recommended to be to the right of the player's shooting zone).
 
 ---
 
@@ -47,7 +47,7 @@ For sports, the ideal aperature is f2.8 and I will assume this ideal for this pr
 
 ![3 images as examples of photos taken at different focal lengths](figures/README_figures/tpf-readme-fig2.png)
 
-[Titled: Focal Length And Reach ; Figure of standard focal lenghts and optimal range in yards/feet]
+The following are standard practice specs and 
 
 Standard Lens Specifications | Range of Reach
 --- | --- 
