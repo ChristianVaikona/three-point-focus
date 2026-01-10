@@ -52,7 +52,7 @@ For sports, the ideal aperature is f2.8 and I will assume this ideal for this pr
 The following are standard practice specs and ranges they are meant for:
 
 Standard Lens Specifications | Range of Reach
---- | ---
+---
 24-70mm f2.8 | 2-7 yds
 --- | ---
 70-200mm f2.8 | 15-38 yds
