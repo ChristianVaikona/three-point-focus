@@ -66,6 +66,6 @@ I will have determined an axis parallel to the baseline of the court along which
 
 ---
 
-With this tool in hand, a photographer, such as myself, has much more control and information to be dialed in with.
+With this tool in hand, a photographer on a similar assignment has much more control and information to be dialed in with.
 
 I give you **Three Point Focus**
