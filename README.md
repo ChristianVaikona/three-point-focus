@@ -35,9 +35,9 @@ Which photo do you think might make it harder for a viewer to identify the playe
 
 **Technically speaking...**
 
-I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting hand from the zone (ie. Photographer facing the player, if the player shoots right-handed, the photographer will be recommended to be to the right of the player's shooting zone).
+I incorporate an encoded series indicating whether a player is a left-handed shooter or right-handed. Following the modeling of zones they are likely to shoot from, recommmedations for placement of photographers will be emphasized opposite the side of the player's shooting hand from the zone (i.e. Photographer facing the player, if the player shoots right-handed, the photographer will be recommended to be to the right of the player's shooting zone).
 
-[Drawn figure example???]
+[Plot Figure Example]
 
 ---
 
