@@ -39,9 +39,13 @@ I incorporate an encoded series indicating whether a player is a left-handed sho
 
 ---
 
-Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I bring to the game. While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa. For sports, the ideal aperature is f2.8 and I will assume this ideal for this project. The standard focal length in sports photography is a 70-200mm lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the best equipment and locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
+Another factor I want to consider when choosing my spot is my equipment, more importantly the focal length and aperature of the lenses I bring to the game. 
 
-[Example photos with focal length and aperature]
+*While focal length determines how far a subject can be and remain in focus, aperature determines how blurry the background of the image will be. The larger the focal length, the further the subject can be and vice versa. The larger the aperature (usually a number preceded by an "f"), the more in focus the background will be and vice versa.*
+
+For sports, the ideal aperature is f2.8 and I will assume this ideal for this project. The standard focal length in sports photography is a 70-200mm lens. This is generally optimal for a 10-20 yard reach. However, I also want to curate some photos with a variety in perspective as the pictures show. When I can understand where the player will most likely shoot from, I can start to think about and plan some photos I think will be pretty cool and choose the best equipment and locations for those photos, stepping out of what may be THE optimal location to shoot the player at all.
+
+![3 images as examples of photos taken at different focal lengths](figures/README_figures/tpf-readme-fig2.png)
 
 [Titled: Focal Length And Reach ; Figure of standard focal lenghts and optimal range in yards/feet]
 
