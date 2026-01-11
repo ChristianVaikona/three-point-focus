@@ -49,7 +49,7 @@ For sports, the ideal aperture is f2.8 (Larger aperture opening with blurrier ba
 
 ![3 images as examples of photos taken at different focal lengths](figures/README_figures/tpf-readme-fig2.png)
 
-The following are standard practice specs and ranges they are meant for:
+The following standard practice specs and ranges assume the subject is in the same position:
 
 | Standard Lens Specifications | Approximate Range of Reach |
 |------------------------------|----------------------------|
