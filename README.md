@@ -52,11 +52,11 @@ For sports, the ideal aperture is f2.8 (Larger aperture opening with blurrier ba
 The following standard practice specs and ranges assume the subject is in the same position:
 
 | Standard Lens Specifications | Approximate Range From Subject |
-|------------------------------|----------------------------|
-| 24-70mm f2.8                 | 3-12 yds                   |
-| 70-200mm f2.8                | 6-30 yds                   |
-| 300mm f2.8                   | 18-45 yds                  |
-| 400mm f2.8                   | 25-65 yds                  |
+|------------------------------|--------------------------------|
+| 24-70mm f2.8                 | 3-12 yards                     |
+| 70-200mm f2.8                | 6-30 yards                     |
+| 300mm f2.8                   | 18-45 yards                    |
+| 400mm f2.8                   | 25-65 yards                    |
 
 ---
 
