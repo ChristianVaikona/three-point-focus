@@ -22,5 +22,3 @@ shots = shotchartdetail.ShotChartDetail(
 df_shots = shots.get_data_frames()[0]  # Shot_Chart_Detail table
 
 print(df_shots.head(10))
-
-print("hello world")
