@@ -19,6 +19,6 @@ shots = shotchartdetail.ShotChartDetail(
     context_measure_simple='FGA'  # get all attempts
 )
 
-df_shots = shots.get_data_frames()[0]  # Shot_Chart_Detail table
+df_shots = shots.get_data_frames()[0]  # Shot_Chart_Detail tabl
 
 print(df_shots.head(10))
