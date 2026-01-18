@@ -12,7 +12,7 @@ leaders_data = leagueleaders.LeagueLeaders(
 
 leaders_df = leaders_data.get_data_frames()[0]
 """
-Columns Include:
+Columns Included In leaders_df:
 'PLAYER_ID', 'RANK', 'PLAYER', 'TEAM_ID', 
 'TEAM', 'GP', 'MIN', 'FGM','FGA', 'FG_PCT', 
 'FG3M', 'FG3A', 'FG3_PCT', 'FTM', 'FTA', 
