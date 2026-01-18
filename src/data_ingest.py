@@ -39,7 +39,7 @@ Player_1, Player_1, Player_1, Player_1, Player_1 = FUNCTION(LIST)
 # # or you can find his current team ID. For this example, team_id=0 works.
 # team_id = 0 
 
-# # Use player info to pull shot location data
+# # Use player info to pull shot location data and others
 # shot_detail = shotchartdetail.ShotChartDetail(
 #     player_id=lebron_id,
 #     team_id=team_id,
