@@ -5,7 +5,7 @@ from nba_api.stats.static import players
 
 # Scope: 2024-2025
 
-# Find top players within certain parameters
+# Find top players within certain parameters .
 leaders_data = leagueleaders.LeagueLeaders(
     season='2024-25'
 )
